@@ -1,0 +1,18 @@
+Template Prompt for Social Media Content Creation
+
+I have a [business type] and I need a [number of days] content plan for social media presented in a tabular form.
+
+Create a detailed social media content table for a digital marketing campaign focused on [campaign focus or theme, e.g., website design, product promotion, or service benefits]. The table should include:
+
+Day: Sequential number for the day of the campaign.
+Date: The actual date of each post.
+Title: A concise and engaging title for the post.
+Image: Description of the image or visual concept for the post.
+Insta (Instagram): Caption for the Instagram post, including emojis and hashtags.
+FB (Facebook): Caption tailored for Facebook, emphasizing engagement and call-to-action.
+Pin (Pinterest): Description optimized for Pinterest, focusing on key features and visuals.
+Tweet (Twitter): A short, impactful Tweet with relevant hashtags.
+LinkedIn: A professional caption emphasizing value, insights, or expertise.
+Link: A URL that directs users to the main content or landing page.
+Ensure the content aligns with themes such as [specific themes, e.g., user experience, product quality, speed optimization, or brand value]. Each post should reflect the platform's style, tone, and audience expectations. The campaign spans [total number of days], starting on [start date].
+
